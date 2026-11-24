@@ -66,7 +66,6 @@ Waveforms sampled from P2.3 across the six counting/output-mode configurations, 
 
 The LCD waveform-sampling routine is based on the `msp432_timer_PWM` Energia example.
 
-## Authors
+## Author
 
-- **Shrinath Abhay Palwankar**
 - **Aryan Verma**
